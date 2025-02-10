@@ -1,1 +1,1 @@
-export const imports = `import "~~/styles/shadcn.css";`;
+export const imports = 'import "~~/styles/shadcn.css";';
